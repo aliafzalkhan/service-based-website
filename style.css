@@ -45,7 +45,16 @@ nav {
     text-decoration: none;
 }
 
-.right>a>button {
+.right>a> {
+    margin-left: 25%;
+    background: rgb(240, 89, 34);
+    color: white;
+    width: 15%;
+    height: 75%;
+    border-radius: 40px;
+}
+a>button{
+ {
     margin-left: 25%;
     background: rgb(240, 89, 34);
     color: white;
