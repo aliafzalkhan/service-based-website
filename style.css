@@ -48,8 +48,8 @@ nav {
 a>button {
     background: rgb(240, 89, 34);
     color: white;
-    width: 15%;
-    height: 75%;
+    width: 140px;
+    height: 50px;
     border-radius: 40px;
 }
 
